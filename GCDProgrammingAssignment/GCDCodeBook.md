@@ -40,3 +40,4 @@ Entire numbers in code column of the TidyData replaced with corresponding activi
 7. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
     - FinalData (180 rows, 88 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
     - Export FinalData into FinalData.txt file.
+
